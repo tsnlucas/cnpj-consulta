@@ -1,0 +1,21 @@
+Licença de Uso do Código-Fonte
+
+Este software e seu código-fonte estão disponíveis sob os seguintes termos:
+
+1. Uso Livre: Você tem permissão para usar, modificar e redistribuir este software, desde que cumpra os termos desta licença.
+
+2. Proibição de Distribuição para Venda: Você não tem permissão para distribuir este software ou qualquer derivado dele com a finalidade de venda ou lucro financeiro. A distribuição para venda é estritamente proibida e é considerada um crime de acordo com a lei.
+
+3. Responsabilidade Limitada: Este software é fornecido "no estado em que se encontra", sem garantias expressas ou implícitas. O autor não se responsabiliza por quaisquer danos diretos, indiretos, incidentais, especiais, exemplares ou consequentes que resultem da utilização deste software.
+
+4. Atribuição: Qualquer redistribuição deste software deve incluir uma cópia desta licença e atribuir a autoria original ao autor deste software.
+
+5. Cumprimento da Lei: Ao utilizar este software, você concorda em cumprir todas as leis e regulamentos aplicáveis. A distribuição para venda ou qualquer uso deste software em violação da lei é estritamente proibida e sujeita a ações legais.
+
+Lembre-se de que a violação destes termos de licença pode resultar em consequências legais. Se você não concorda com estes termos, não está autorizado a usar ou redistribuir este software.
+
+Victor Lucas dos Reis de Medeiros
+lucasmedeiros2894@gmail.com
+26/09/2023
+
+Este é um exemplo de licença personalizada. Lembre-se de substituir `[Seu Nome]`, `[Seu Email]` e `[Data]` pelos seus próprios detalhes. Além disso, é importante consultar um advogado para garantir que a licença atenda às suas necessidades legais específicas e para obter aconselhamento legal adequado sobre a redação da licença.
